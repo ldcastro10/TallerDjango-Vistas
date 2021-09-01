@@ -1,4 +1,5 @@
 # TallerDjango-Vistas
+<p>ld.castro 201720389- js.diaz 201819861</p>
 GET ALL
 <p><img width="946" alt="captura 1" src="https://user-images.githubusercontent.com/60227212/131609609-997fc90b-e82d-4bcd-b494-f1bc17580c92.PNG"></p>
 GET
